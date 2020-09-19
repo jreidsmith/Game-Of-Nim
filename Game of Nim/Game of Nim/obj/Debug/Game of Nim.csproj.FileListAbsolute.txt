@@ -1,0 +1,10 @@
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\bin\Debug\Game of Nim.exe.config
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\bin\Debug\Game of Nim.exe
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\bin\Debug\Game of Nim.pdb
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\obj\Debug\Game of Nim.csprojAssemblyReference.cache
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\obj\Debug\Game_of_Nim.Properties.Resources.resources
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\obj\Debug\Game of Nim.csproj.GenerateResource.cache
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\obj\Debug\Game of Nim.csproj.CoreCompileInputs.cache
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\obj\Debug\Game of Nim.exe
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\obj\Debug\Game of Nim.pdb
+C:\Users\jars7\Source\Repos\Game of Nim\Game of Nim\obj\Debug\Game_of_Nim.GameOfNim.resources
